@@ -5,7 +5,8 @@ I'm Ömer from Turkey, and I do developing application on android. I really enjo
 Skills: Android Developer/ Kotlin / JAVA / Adobe Photoshop / Adobe Illustrator / Figma
 
 - 🔭 I’m currently working on [Coin Moino](https://play.google.com/store/apps/details?id=com.metoer.ceptedovizborsa) 
-- 💬 Ask me about Android Developer, Kotlin, JAVA 
+- 🌱 I’m currently learning **Android Developer, Kotlin ,JAVA**
+- 💬 Ask me about Android Development, Kotlin, JAVA 
 - 📫 How to reach me: yavuzyigitomer52@gmail.com 
 
 
