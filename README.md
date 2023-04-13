@@ -6,7 +6,7 @@ Skills: Android Developer/ Kotlin / JAVA / Adobe Photoshop / Adobe Illustrator /
 
 - 🔭 I’m currently working on [Coin Moino](https://play.google.com/store/apps/details?id=com.metoer.ceptedovizborsa) 
 - 🌱 I’m currently learning **Android Developer, Kotlin ,JAVA**
-- 👨‍💻 This my web site. [http://www.megapps.com.tr/](http://www.megapps.com.tr/)
+- 👨‍💻 This my web site. [http://www.megapps.com.tr/](https://www.megapps.com.tr/)
 - 💬 Ask me about Android Development, Kotlin, JAVA 
 - 📫 How to reach me: yavuzyigitomer52@gmail.com 
 
